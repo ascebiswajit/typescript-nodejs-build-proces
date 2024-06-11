@@ -35,6 +35,12 @@ This project demonstrates a Node.js application setup using TypeScript for effic
   - **Production**: `npm start`
   - **Development**: `npm run start-dev`
 
+## Example Output
+
+![Example Image](https://res.cloudinary.com/dkltennhc/image/upload/v1718066046/z07csvxfkzint1gevvix.png)
+
+This image shows an example webpage served by your Express server, displaying a static image.
+
 ## Project Structure
 - **`src/`**: Contains TypeScript source files.
 - **`dist/`**: Contains compiled JavaScript files (output directory).
